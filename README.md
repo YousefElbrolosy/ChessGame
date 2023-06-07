@@ -1,7 +1,7 @@
 # ChessGame
 In this project a chess game is implemented in Haskell
 
-In this project, for simplicity, we are assuming the following:
+For simplicity, we are assuming the following:
 a) There are no promotions of pawns.
 b) It is legal for a king to move to locations in which he will be threatened.
 
