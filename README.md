@@ -12,9 +12,6 @@ The function does not take any inputs and returns a board representing the initi
 configuration. Assume that the first turn is always on the
 white player.
 
-visualizeBoard:: Board->String <br />
-The function takes as input a board and returns a visual representation of the board in a string. Black pieces are suffixed
-with ’B’ and white pieces are suffixed with ’W’.
 
 isLegal:: Piece -> Board -> Location -> Bool <br />
 The function takes as input a piece, a board, and a location. It returns True if
